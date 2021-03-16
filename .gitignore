@@ -1,5 +1,7 @@
-after.png
-after.png
+
+*.png
 .idea
 git-hw.iml
-\out
+C:\Users\SabaNet\Desktop\git-hw\out
+C:\Users\SabaNet\Desktop\git-hw\.idea
+
